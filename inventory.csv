@@ -1,0 +1,8 @@
+Product,Category,Stock,ReorderLevel
+Laptops,Electronics,15,10
+Keyboards,Electronics,50,20
+Monitors,Electronics,15,15
+Mice,Accessories,80,30
+Printers,Electronics,15,10
+Chairs,Furniture,15,10
+Desks,Furniture,15,12
